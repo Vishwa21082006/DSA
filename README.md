@@ -1,10 +1,10 @@
-# 🔍 Searching Algorithms in DSA
+Searching Algorithms in DSA
 
 This repository contains implementations and explanations of fundamental **searching algorithms** used in Data Structures and Algorithms (DSA). Searching is an essential concept in computer science, used to locate a specific element in a data structure like an array, list, or tree.
 
 ---
 
-## 📁 Algorithms Included
+Algorithms Included
 
 | Algorithm              | Description                                               | Works on Sorted Data |
 |------------------------|-----------------------------------------------------------|----------------------|
@@ -16,7 +16,7 @@ This repository contains implementations and explanations of fundamental **searc
 
 ---
 
-## 🧠 Algorithm Details
+Algorithm Details
 
 ### 1. Linear Search
 - Time Complexity: **O(n)**
